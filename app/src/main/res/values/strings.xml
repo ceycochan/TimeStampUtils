@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">TimeStampUtils</string>
+    <string name="just_recently">Just recently</string>
+    <string name="ten_minute">Ten minutes ago</string>
+    <string name="half_hour">Half an hour ago</string>
+    <string name="one_hour">An hour ago</string>
+    <string name="two_hour">Two hours ago</string>
+    <string name="three_hour">Three hours ago</string>
+    <string name="today">Today</string>
+    <string name="yestoday">Yesterday</string>
+    <string name="threedays">Three days ago</string>
+    <string name="fourdays">Four days ago</string>
+    <string name="month">This month</string>
+    <string name="month_ago">A month ago</string>
+</resources>
