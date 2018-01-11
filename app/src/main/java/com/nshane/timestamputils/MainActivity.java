@@ -64,6 +64,11 @@ public class MainActivity extends AppCompatActivity {
         tvTimeStampShow.setText(ts);
         tvCurrentTimeShow.setText(formatData("yyyy-MM-dd HH:mm:ss", tsLong));
 
+        /**
+         * 只获取年月日
+         */
+//        tvCurrentTimeShow.setText(formatData("yyyy-MM-dd", tsLong));
+
 
         SimpleDateFormat sdfTwo = new SimpleDateFormat("yyyy年MM月dd日HH时mm分ss秒E",
                 Locale.getDefault());
