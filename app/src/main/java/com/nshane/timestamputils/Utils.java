@@ -14,5 +14,6 @@ public class Utils {
         long current = System.currentTimeMillis();
         long difference = current - interval;
         return (int) (difference / ONE_DAY_MILLISECOND);
+        // test
     }
 }

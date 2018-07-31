@@ -4,8 +4,10 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/TimeStampUtils.iml" filepath="$PROJECT_DIR$/.idea/TimeStampUtils.iml" />
       <module fileurl="file://G:\GitHub\TimeStampUtils\TimeStampUtils.iml" filepath="G:\GitHub\TimeStampUtils\TimeStampUtils.iml" />
+      <module fileurl="file://D:\MyGit\TimeStampUtils\.idea\TimeStampUtils.iml" filepath="D:\MyGit\TimeStampUtils\.idea\TimeStampUtils.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://G:\GitHub\TimeStampUtils\app\app.iml" filepath="G:\GitHub\TimeStampUtils\app\app.iml" />
+      <module fileurl="file://D:\MyGit\TimeStampUtils\app\app.iml" filepath="D:\MyGit\TimeStampUtils\app\app.iml" />
     </modules>
   </component>
 </project>
